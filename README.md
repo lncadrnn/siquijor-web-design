@@ -9,12 +9,25 @@ The design highlights the beauty of Siquijor, featuring stunning visuals, an int
 
 ## 🎨 Features  
 - 📌 Modern and clean UI  
-- 🌅 Beautiful high-quality images of Siquijor
+- 🌅 Beautiful high-quality images of Siquijor  
 - 🗺️ **Interactive Map of Siquijor** with **clickable pins** for tourist spots  
 - 🏨 **Interactive Calendar** for a **hotel booking system**     
 - 📱 Sections for Attractions, Festivals, & Restaurants all around Siquijor!  
 
+### 📸 Images   
+
+#### 🏝️ Siquijor Homepage  
+![Siquijor Homepage](images/siquijor-homepage.jpg)  
+
+#### 📍 Attractions Overview  
+![Attractions Overview](images/attractions-overview.jpg)  
+
+#### 🎭 Festival Overview  
+![Festival Overview](images/festival-overview.jpg)  
+
+#### 🍽️ Restaurant Overview  
+![Restaurant Overview](images/restaurant-overview.jpg) 
+
 ## 📂 Files in this Repository  
 - `README.md` → Project details and links  
 - `images/` → Screenshots of the design  
-
