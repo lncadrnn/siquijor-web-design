@@ -14,19 +14,10 @@ The design highlights the beauty of Siquijor, featuring stunning visuals, an int
 - 🏨 **Interactive Calendar** for a **hotel booking system**     
 - 📱 Sections for Attractions, Festivals, & Restaurants all around Siquijor!  
 
-### 📸 Images   
+### 📸 Preview  
 
 #### 🏝️ Siquijor Homepage  
-![Siquijor Homepage](images/siquijor-homepage.jpg)  
-
-#### 📍 Attractions Overview  
-![Attractions Overview](images/attractions-overview.jpg)  
-
-#### 🎭 Festival Overview  
-![Festival Overview](images/festival-overview.jpg)  
-
-#### 🍽️ Restaurant Overview  
-![Restaurant Overview](images/restaurant-overview.jpg) 
+![Siquijor Homepage] <img src="images/siquijor-homepage.jpg" width="500">   
 
 ## 📂 Files in this Repository  
 - `README.md` → Project details and links  
