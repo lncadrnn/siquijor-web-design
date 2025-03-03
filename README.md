@@ -17,7 +17,9 @@ The design highlights the beauty of Siquijor, featuring stunning visuals, an int
 ## 📸 Preview  
 
 ## 🏝️ Siquijor Homepage  
-<img src="images/siquijor-homepage.jpg" width="500">   
+<div align="center">
+  <img src="images/siquijor-homepage.jpg" width="500">
+</div>
 
 ## 📂 Files in this Repository  
 - `README.md` → Project details and links  
