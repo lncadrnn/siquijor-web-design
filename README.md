@@ -4,7 +4,7 @@ This repository contains the Figma design for a **Siquijor tourism website**.
 The design highlights the beauty of Siquijor, featuring stunning visuals, an interactive gallery, and information about the island.  
 
 ## 📄 View the Design  
-🔹 **Figma Design:** [Siquijor Figma File](https://www.figma.com/design/LO76yxrL5FVUUDjkKcdxOd/Siquijor-figma?node-id=0-1&t=g5o66wA5oIBxlHbo-1)  
+🔹 **Figma Design:** [Siquijor Figma File](https://www.figma.com/design/LO76yxrL5FVUUDjkKcdxOd/Siquijor-figma?node-id=0-1&t=rGBO2q7h2GkCpgdk-1)  
 🔹 **PDF Version:** [Download from Google Drive](https://drive.google.com/file/d/1T48CiS7FI1QZd503jl0WoLIInMDd3ojR/view?usp=sharing)  
 
 ## 🎨 Features  
