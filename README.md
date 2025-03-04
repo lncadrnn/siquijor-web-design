@@ -23,4 +23,9 @@ The design highlights the beauty of Siquijor, featuring stunning visuals, an int
 
 ## 📂 Files in this Repository  
 - `README.md` → Project details and links  
-- `images/` → Screenshots of the design  
+- `images/` → Screenshots of the design
+
+## 👥 Contributors  
+- [**Lance Adrian Acal**](github.com/lncadrnn)
+- Abby D.
+- Bryan G.
